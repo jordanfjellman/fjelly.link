@@ -1,0 +1,4 @@
+# Redirects from what the browser requests to what we serve
+/home                https://jordanfjellman.com
+/blog                https://jordanfjellman.com/blog
+/about               https://jordanfjellman.com/about
