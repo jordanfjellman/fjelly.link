@@ -1,7 +1,7 @@
 # A Short-URL Redirector
 
 This "app" leverages [Netlify](https://netlify.com)'s redirect capabilities to
-shorten URL'.
+shorten URLs.
 
 ## ToDo's
 
